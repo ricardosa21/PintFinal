@@ -61,7 +61,7 @@ const FormRegistarUtilizador = () => {
     return (
         <div className="divNice">
         <form id="registo" onSubmit={onSubmitForm}>
-            <h4>Registe aqui o utilizador</h4>
+            <h4>Registe aqui o Utilizador</h4>
             <div className="form-row">
                 <div className="col-sm-6">
                     <label htmlFor="nome_utilzzador">Nome:</label>
